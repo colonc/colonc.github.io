@@ -44,7 +44,7 @@ avatar: "/img/Profile.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Cassandra (CeCe) Colon
-  email: "colonc@allegheny.edu"
+  email: "cecetb@gmail.com"
   #facebook: yourname  # eg. daattali
   github: Colonc    # eg. daattali
   #twitter: yourname   # eg. daattali
@@ -64,7 +64,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  #twitter: true
+  twitter: true
   google-plus: false
   github: true
   reddit: false
