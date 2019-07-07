@@ -2,7 +2,7 @@
 layout: post
 title: Hidden Pockets of Knowledge
 subtitle: Learning to Navigate *The Tribal Knowledge Trap*
-bigimg: /img/questions.jpg : "Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1872665">Arek Socha</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1872665">Pixabay</a>"
+bigimg: /img/questions.jpg
 ---
 <!--- - "/Your Image Path/filename of image" : "comment" -->
 ## Introduction
