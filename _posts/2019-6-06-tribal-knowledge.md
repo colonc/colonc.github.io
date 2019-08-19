@@ -2,7 +2,8 @@
 layout: post
 title: Hidden Pockets of Knowledge
 subtitle: Learning to Navigate The Tribal Knowledge Trap
-bigimg: /img/TribalKnowledge/questions.jpg
+bigimg: /img/TribalKnowledge/questions.jpg 
+comment: False
 ---
 <!--- - "/Your Image Path/filename of image" : "comment" -->
 

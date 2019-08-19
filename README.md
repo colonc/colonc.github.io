@@ -1,7 +1,12 @@
 # Beautiful Jekyll
 
+sudo bundle exec jekyll build --incremental
+sudo bundle exec jekyll serve
+
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+
 
 > *Copyright 2016 [Dean Attali](http://deanattali.com)*
 
@@ -17,15 +22,33 @@
 
 ### Table of contents
 
-- [Prerequisites](#prerequisites)
-- [Build your website in 3 steps](#build-your-website-in-3-steps)
-- [Add your own content](#add-your-own-content)
-- [Last important thing: YAML front matter ("parameters" for a page)](#last-important-thing-yaml-front-matter-parameters-for-a-page)
-- [Features](#features)
-- [Creating a User Page vs a Project Page](#creating-a-user-page-vs-a-project-page)
-- [Showcased users (success stories!)](#showcased-users-success-stories)
-- [Advanced: local development](#advanced-local-development-using-docker)
-- [Credits and contributions](#credits)
+- [Beautiful Jekyll](#beautiful-jekyll)
+    - [Table of contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Build your website in 3 steps](#build-your-website-in-3-steps)
+    - [1. Fork this repository](#1-fork-this-repository)
+    - [2. Rename the repository to `<yourusername>.github.io`](#2-rename-the-repository-to-yourusernamegithubio)
+    - [3. Customize your website settings](#3-customize-your-website-settings)
+  - [Add your own content](#add-your-own-content)
+  - [Last important thing: YAML front matter ("parameters" for a page)](#last-important-thing-yaml-front-matter-%22parameters%22-for-a-page)
+  - [Features](#features)
+    - [Mobile-first](#mobile-first)
+    - [Customizable](#customizable)
+    - [Allowing users to leave comments](#allowing-users-to-leave-comments)
+    - [Adding Google Analytics to track page views](#adding-google-analytics-to-track-page-views)
+    - [Sharing blog posts on social media](#sharing-blog-posts-on-social-media)
+    - [RSS feed](#rss-feed)
+    - [Page types](#page-types)
+    - [YAML front matter parameters](#yaml-front-matter-parameters)
+    - [Advanced features (including how to use a custom URL address for your site)](#advanced-features-including-how-to-use-a-custom-url-address-for-your-site)
+  - [Creating a User Page vs a Project Page](#creating-a-user-page-vs-a-project-page)
+  - [Showcased users (success stories!)](#showcased-users-success-stories)
+    - [Project/company websites](#projectcompany-websites)
+    - [Personal websites](#personal-websites)
+  - [Advanced: Local development using Docker](#advanced-local-development-using-docker)
+  - [Credits](#credits)
+  - [Contributions](#contributions)
+  - [Known limitations](#known-limitations)
 
 ## Prerequisites
 

@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Here's the rundown...
+bigimg: /img/Teak.jpg
 ---
 
 My name is Cassandra Col&oacute;n and I recently had the honor to blaze the trail and become the first generation of college graduates in my family. It has taken many late nights, continuous breaking out of my comfort zone, and persevering effort, but I can proudly say that I have accomplished my goal. However, the trail does not end here as I continue to set new goals for myself. 
