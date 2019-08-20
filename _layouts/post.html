@@ -47,6 +47,10 @@ layout: base
           {% include disqus.html %}
         </div>
       {% endif %}
+
+      {% if site.disqus.shortname %}
+        {% include disqus.html %} 
+      {% endif %}
     </div>
   </div>
 </div>
